@@ -1,3 +1,3 @@
-# my-travel-plans
+# Travel Destinations
 
-Contains information on how I plan to travel.
+A simple app to keep track of destinations I'd like to visit.
